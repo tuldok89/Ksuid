@@ -5,9 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="Tuldok.Base62">
-      <HintPath>..\..\Base62\Tuldok.Base62\bin\Debug\netstandard2.0\Tuldok.Base62.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\Base62\Tuldok.Base62\Tuldok.Base62.csproj" />
   </ItemGroup>
 
 </Project>
