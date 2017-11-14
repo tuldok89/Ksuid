@@ -1,0 +1,3 @@
+[submodule "Base62"]
+	path = Base62
+	url = https://github.com/tuldok89/Base62.git
